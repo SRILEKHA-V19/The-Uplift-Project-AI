@@ -1,6 +1,18 @@
 # The-Uplift-Project-AI
 Repository built and maintained by The Uplift Project(GirlScript Organisation) AI Team 15 to add weekly updates.
 
+## Project Domain 
+Covid-19
+## Project
+Web App to:
+1) detect whether user is infected from Covid-19 or not
+2) inform him/her about his/her condition(Mild/Serious/Critical) 
+## Description: 
+In the current situation of covid,Nowadays in India it is very difficult to get a bed in hospital, the reason being when a person develops any symptoms he/she rushes to the hospital even if the symptoms are mild.This increases the pressure on the Health-care system as it increases the no of patients.
+
+A patient with mild symptoms can be cured by staying in home quarantine.So if we can inform the person about his/her condition(Mild/serious/Critical), based on which he/she can decide whether to go to hospital for treatment or to stay in home quarantine , then this will reduce some pressure on health care system.
+
+So to overcome this problem,We have decided to develop a Web App in which user can select his/her symptoms plus can upload the image of his/her X-ray and on that basis our app will inform whether the user is infected or not and what is his/her condition ( Mild/Serious/Critical )
 ## Plan
 
 ### June
@@ -22,7 +34,7 @@ Repository built and maintained by The Uplift Project(GirlScript Organisation) A
 *Week 4:* Implementation of ML/DL algorithms for the same
 
 ### August
-*Week 1:* Run multiple more experiments after obtaining results for July week 4 experiment with multiple tweaks in algorithms or training approaches/hyper params
+*Week 1:* Run multiple more experiments after obtaining results for July week 4 experiment with multiple tweaks in algorithms or training approaches/hyper params and along with this develop a web App using Streamlit library
 
 *Week 2:* Compare all the experiments performed so far (which are simultaneously stored in weights and biases website for each experiment to track progress) and chose the best method. Answer questions such as why or how one particular method worked over another.
 
